@@ -10,29 +10,20 @@ I’m a full-stack developer with hands-on experience building, deploying, and m
 
 ### Frameworks & Libraries
 
-- Android SDK
-- Flask
-- React
+<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" />
 
 ### Databases
 
-- MySQL
-- PostgreSQL
-- SQLite
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge" />
 
 ### Tools & Platforms
 
-- Android Studio
-- Git & GitHub
-- Firebase
-- Supabase
-- Render
-- Vercel
-- Netlify
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge" /> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge" />
 
 ### APIs & Services
 
-- RESTful APIs
-- Google Play Billing
-- Paystack
-- Google AdMob
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20Play%20Billing-414141?style=for-the-badge" /> <img src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20AdMob-EA4335?style=for-the-badge" />
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=cassyomondi&show_icons=true&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassyomondi&layout=compact&hide_border=true" />
