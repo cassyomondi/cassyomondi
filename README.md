@@ -24,6 +24,3 @@ I’m a full-stack developer with hands-on experience building, deploying, and m
 
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20Play%20Billing-414141?style=for-the-badge" /> <img src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20AdMob-EA4335?style=for-the-badge" />
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=cassyomondi&show_icons=true&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassyomondi&layout=compact&hide_border=true" />
