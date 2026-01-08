@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi, I’m Cassy Omondi
 
-<!--
-**cassyomondi/cassyomondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer with hands-on experience building, deploying, and maintaining production-grade Android and web applications. I work across mobile, backend, and frontend systems, with a strong focus on clean architecture, RESTful APIs, and monetization-ready products.
 
-Here are some ideas to get you started:
+## Technical Skill Set
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+- Java
+- Kotlin
+- Python
+- JavaScript
+- PHP
+- HTML, CSS
+
+### Frameworks & Libraries
+
+- Android SDK
+- Flask
+- React
+
+### Databases
+
+- MySQL
+- PostgreSQL
+- SQLite
+
+### Tools & Platforms
+
+- Android Studio
+- Git & GitHub
+- Firebase
+- Supabase
+- Render
+- Vercel
+- Netlify
+
+### APIs & Services
+
+- RESTful APIs
+- Google Play Billing
+- Paystack
+- Google AdMob
