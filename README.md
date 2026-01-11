@@ -26,3 +26,20 @@ I’m a full-stack developer with hands-on experience building, deploying, and m
 
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20Play%20Billing-414141?style=for-the-badge" /> <img src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20AdMob-EA4335?style=for-the-badge" />
 
+## Featured Projects
+
+1. [Peruze AI-Powered News Summarization App (Android)](https://peruzeapp.com/)
+- A production-grade Android news application that aggregates, extracts, and summarizes articles for fast consumption.
+Built with Java (Android), PHP, Python, and PostgreSQL, featuring server-side content processing, user engagement (comments, likes, bookmarks)
+
+2. [SheCare Health Companion](https://github.com/cassyomondi/SheCare-ECI-Project)
+- A full-stack ealth-focused communication and data management platform designed to support maternal health, community outreach, and practitioner coordination.
+Implements Flask-based REST APIs, authentication, notifications, and robust database design using PostgreSQL, with attention to clean architecture and environment separation.
+
+3. [FundFlow Crowdfunding App](https://github.com/cassyomondi/FundFlow-Crowdfunding-App)
+- A full-stack crowdfunding system enabling campaign creation and secure donations.
+Features a Flask REST API, React frontend, validated donation workflows, and persistent data modeling with SQLite and SQLAlchemy ORM.
+
+4. [Project Idea Vault](https://github.com/cassyomondi/Project-Idea-Vault)
+- A developer-focused web application for submitting, browsing, and favoriting software project ideas.
+Built with React (Vite) and a lightweight JSON Server backend, emphasizing modular components, state management, and a responsive UI.
