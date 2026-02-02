@@ -32,7 +32,7 @@ I’m a full-stack developer with hands-on experience building, deploying, and m
 - A production-grade Android news application that aggregates, extracts, and summarizes articles for fast consumption.
 Built with Java (Android), PHP, Python, and PostgreSQL, featuring server-side content processing, user engagement (comments, likes, bookmarks)
 
-2. [SheCare Health Companion](https://github.com/cassyomondi/SheCare-ECI-Project)
+2. [SheCare Health Companion](https://shecare.africa/)
 - A full-stack ealth-focused communication and data management platform designed to support maternal health, community outreach, and practitioner coordination.
 Implements Flask-based REST APIs, authentication, notifications, and robust database design using PostgreSQL, with attention to clean architecture and environment separation.
 
