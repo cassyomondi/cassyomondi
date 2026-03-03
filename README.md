@@ -4,7 +4,7 @@
 
 ---
 
-## Technical Skill Set
+## Tech Stack
 
 ### Languages
 
