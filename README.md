@@ -1,6 +1,6 @@
 ## Hi, I’m Cassy Omondi
 
-I’m a full-stack developer with hands-on experience building, deploying, and maintaining production-grade Android and web applications. I work across mobile, backend, and frontend systems, with a strong focus on clean architecture, RESTful APIs, and monetization-ready products.
+I build cool things. 
 
 ---
 
