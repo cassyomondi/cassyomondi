@@ -30,7 +30,6 @@
 
 1. [Peruze AI-Powered News Summarization App (Android)](https://peruzeapp.com/)
 - A production-grade Android news app that aggregates, extracts, and summarizes articles for fast consumption.
-Built with Java (Android), PHP, Python, and PostgreSQL, featuring server-side content processing, user engagement (comments, likes, bookmarks)
 
 2. [SheCare Health Companion](https://shecare.africa/)
 - A WhatsApp chatbot designed to support women's health.
