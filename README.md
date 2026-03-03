@@ -29,17 +29,14 @@
 ## Featured Projects
 
 1. [Peruze AI-Powered News Summarization App (Android)](https://peruzeapp.com/)
-- A production-grade Android news application that aggregates, extracts, and summarizes articles for fast consumption.
+- A production-grade Android news app that aggregates, extracts, and summarizes articles for fast consumption.
 Built with Java (Android), PHP, Python, and PostgreSQL, featuring server-side content processing, user engagement (comments, likes, bookmarks)
 
 2. [SheCare Health Companion](https://shecare.africa/)
-- A full-stack ealth-focused communication and data management platform designed to support maternal health, community outreach, and practitioner coordination.
-Implements Flask-based REST APIs, authentication, notifications, and robust database design using PostgreSQL, with attention to clean architecture and environment separation.
+- A WhatsApp chatbot designed to support women's health.
 
 3. [FundFlow Crowdfunding App](https://github.com/cassyomondi/FundFlow-Crowdfunding-App)
 - A full-stack crowdfunding system enabling campaign creation and secure donations.
-Features a Flask REST API, React frontend, validated donation workflows, and persistent data modeling with SQLite and SQLAlchemy ORM.
 
 4. [Project Idea Vault](https://github.com/cassyomondi/Project-Idea-Vault)
 - A developer-focused web application for submitting, browsing, and favoriting software project ideas.
-Built with React (Vite) and a lightweight JSON Server backend, emphasizing modular components, state management, and a responsive UI.
