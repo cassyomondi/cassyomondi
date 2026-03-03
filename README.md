@@ -4,7 +4,7 @@
 
 ---
 
-## Tech Stack
+## Stack
 
 ### Languages
 
