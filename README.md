@@ -26,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20Play%20Billing-414141?style=for-the-badge" /> <img src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20AdMob-EA4335?style=for-the-badge" />
 
-## Featured Projects
+## Proof Of Concept
 
 1. **[Peruze – AI News Summarization App](https://peruzeapp.com/)**
    - Production Android app that aggregates, extracts, and summarizes articles for fast consumption.
