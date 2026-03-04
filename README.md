@@ -39,3 +39,7 @@
 
 4. [Project Idea Vault](https://github.com/cassyomondi/Project-Idea-Vault)
 - A developer-focused web application for submitting, browsing, and favoriting software project ideas.
+
+## Check me out
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassy%20Omondi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassyomondi)
