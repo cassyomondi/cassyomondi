@@ -26,6 +26,8 @@
 
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20Play%20Billing-414141?style=for-the-badge" /> <img src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20AdMob-EA4335?style=for-the-badge" />
 
+---
+
 ## Proof Of Concept
 
 1. **[Peruze – AI News Summarization App](https://peruzeapp.com/)**
@@ -40,9 +42,13 @@
 4. **[Project Idea Vault](https://github.com/cassyomondi/Project-Idea-Vault)**
    - Developer platform for submitting, browsing, and saving software project ideas.
 
+---
+
 ## Proof Of Life
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cassyomondi&theme=github-compact)
+
+---
 
 ## Check Me Out
 
