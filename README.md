@@ -40,10 +40,10 @@
 4. **[Project Idea Vault](https://github.com/cassyomondi/Project-Idea-Vault)**
    - Developer platform for submitting, browsing, and saving software project ideas.
 
-## Proof of life
+## Proof Of Life
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cassyomondi&theme=github-compact)
 
-## Check me out
+## Check Me Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassy%20Omondi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassyomondi)
