@@ -1,6 +1,6 @@
 ## Hi, I’m Cassy Omondi
 
-### Builder.Innovator. Pioneer.
+### Builder, Innovator, Pioneer.
 
 ---
 
