@@ -1,4 +1,4 @@
-## Hi, I’m Cassy Omondi
+## Cassy Omondi
 
 ### Builder, Innovator, Pioneer.
 
