@@ -31,7 +31,7 @@
 ## Proof Of Concept
 
 1. **[Peruze – AI News Summarization App](https://peruzeapp.com/)**
-   - Production Android app that aggregates, extracts, and summarizes articles for fast consumption.
+   - Production Android app that aggregates, extracts, and summarizes news articles.
 
 2. **[SheCare – WhatsApp Health Companion](https://shecare.africa/)**
    - WhatsApp chatbot supporting women's health information and guidance.
