@@ -12,7 +12,7 @@
 
 ### Frameworks & Libraries
 
-<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
 ### Databases
 
