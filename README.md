@@ -42,7 +42,10 @@
 
 ### APIs & Services
 
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20Play%20Billing-414141?style=for-the-badge" /> <img src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google%20AdMob-EA4335?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Play%20Billing-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+<img src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white" />
 
 ---
 
