@@ -31,9 +31,12 @@
 
 ### AI Engineering & Workflow Tools
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logo=heart&logoColor=white" />
+<img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 ### Tools & Infra
 
