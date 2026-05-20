@@ -60,16 +60,13 @@
 
 ## Proof Of Concept
 
-1. **[Peruze – AI News Summarization App](https://peruzeapp.com/)**
-   - Production Android app that aggregates, extracts, and summarizes news articles.
-
-2. **[SheCare – WhatsApp Health Companion](https://shecare.africa/)**
+1. **[SheCare – WhatsApp Health Companion](https://shecare.africa/)**
    - WhatsApp chatbot supporting women's health information and guidance.
 
-3. **[FundFlow – Crowdfunding Platform](https://github.com/cassyomondi/FundFlow-Crowdfunding-App)**
+2. **[FundFlow – Crowdfunding Platform](https://github.com/cassyomondi/FundFlow-Crowdfunding-App)**
    - Full-stack crowdfunding system enabling campaign creation and secure donations.
 
-4. **[Project Idea Vault](https://github.com/cassyomondi/Project-Idea-Vault)**
+3. **[Project Idea Vault](https://github.com/cassyomondi/Project-Idea-Vault)**
    - Developer platform for submitting, browsing, and saving software project ideas.
 
 ---
