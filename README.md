@@ -67,7 +67,7 @@
 ## Proof Of Concept
 
 1. **[SheCare – WhatsApp Health Companion](https://shecare.africa/)**
-   - WhatsApp chatbot supporting women's health information and guidance.
+   - Production WhatsApp chatbot supporting women's health information and guidance.
 
 2. **[FundFlow – Crowdfunding Platform](https://github.com/cassyomondi/FundFlow-Crowdfunding-App)**
    - Full-stack crowdfunding system enabling campaign creation and secure donations.
