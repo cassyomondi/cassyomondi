@@ -101,6 +101,15 @@
 
 ---
 
+## My Github Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassyomondi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassyomondi&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
 ## Check Me Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassy%20Omondi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassyomondi)
