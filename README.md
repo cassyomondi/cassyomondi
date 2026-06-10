@@ -101,14 +101,6 @@
 
 ---
 
-## My Github Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=cassyomondi&theme=transparent&hide_border=true"/>
-</p>
-
----
-
 ## Check Me Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassy%20Omondi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassyomondi)
