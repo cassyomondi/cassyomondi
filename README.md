@@ -104,8 +104,7 @@
 ## My Github Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassyomondi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassyomondi&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=cassyomondi&theme=transparent&hide_border=true"/>
 </p>
 
 ---
