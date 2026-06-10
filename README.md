@@ -104,7 +104,7 @@
 ## My Github Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=cassyomondi&theme=flat&no-frame=true&margin-w=10"/>
+<img src="https://streak-stats.demolab.com?user=cassyomondi&theme=transparent&hide_border=true"/>
 </p>
 
 ---
