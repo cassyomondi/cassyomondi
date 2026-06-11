@@ -1,6 +1,6 @@
 ## Cassy Omondi
 
-### Builder • Innovator • Pioneer 
+### Building AI-driven mobile apps, WhatsApp automation systems, and monetized SaaS products
 
 ---
 
