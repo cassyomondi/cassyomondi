@@ -59,19 +59,19 @@
 
 ## Proof Of Concept
 
-1. **[SheCare – WhatsApp Health Companion](https://shecare.africa/)**
-   Production WhatsApp chatbot supporting women's health information and guidance.
+1. **[SheCare – WhatsApp Health Companion](https://shecare.africa/)**: Production WhatsApp chatbot supporting women's health information and guidance.
+   
    - Production WhatsApp AI health assistant serving real users
    - Built with Python backend, LLM integration, and structured medical guidance flows
    - Integrates Twilio WhatsApp API + conversational state engine
 
-3. **[FundFlow – Crowdfunding Platform](https://github.com/cassyomondi/FundFlow-Crowdfunding-App)**
-   Full-stack crowdfunding system enabling campaign creation and secure donations.
+3. **[FundFlow – Crowdfunding Platform](https://github.com/cassyomondi/FundFlow-Crowdfunding-App)**: Full-stack crowdfunding system enabling campaign creation and secure donations.
+   
    - Full-stack donation platform with campaign lifecycle management
    - Implements secure payment processing and user authentication
 
-5. **[Project Idea Vault](https://github.com/cassyomondi/Project-Idea-Vault)**
-   Developer platform for submitting, browsing, and saving software project ideas.
+5. **[Project Idea Vault](https://github.com/cassyomondi/Project-Idea-Vault)**: Developer platform for submitting, browsing, and saving software project ideas.
+   
    - Developer idea management system with tagging, search, and persistence layer
    - Built for collaborative ideation workflows
 
