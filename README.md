@@ -35,20 +35,11 @@
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### AI Engineering
-
-<p>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-</p>
-
 ### AI Prototyping
 
 <p>
+
 <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logo=lovable&logoColor=white" />
-<img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### Infrastructure & DevOps
