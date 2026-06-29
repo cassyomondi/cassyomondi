@@ -1,6 +1,6 @@
 ## Cassy Omondi
 
-### Building AI-driven mobile/web apps, WhatsApp automation systems, and monetized SaaS products.
+### Building AI-driven mobile/web apps, automation systems, and monetized SaaS products.
 
 ---
 
