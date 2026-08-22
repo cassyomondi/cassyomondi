@@ -65,10 +65,12 @@
    - Built with Python backend, LLM integration, and structured medical guidance flows
    - Integrates Twilio WhatsApp API + conversational state engine
 
-3. **[FundFlow – Crowdfunding Platform](https://github.com/cassyomondi/FundFlow-Crowdfunding-App)**: Full-stack crowdfunding system enabling campaign creation and secure donations.
+2. **[SpaceShift – AI Cybersecurity Web Chatbot](https://chat.spaceshift.africa/)**: Production web-based cybersecurity assistant for detecting and understanding online threats.
    
-   - Full-stack donation platform with campaign lifecycle management
-   - Implements secure payment processing and user authentication
+   - Scans URLs and digital content for phishing, scams, impersonation, malware, and other suspicious behavior
+   - Combines deterministic risk analysis with AI-generated contextual threat explanations
+   - Built with React, TypeScript, Python/Flask, PostgreSQL, and LLM integration
+   - Includes scan history, cybersecurity lessons, threat intelligence, multilingual support, and persistent web sessions
 
 5. **[Project Idea Vault](https://github.com/cassyomondi/Project-Idea-Vault)**: Developer platform for submitting, browsing, and saving software project ideas.
    
