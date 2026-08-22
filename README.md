@@ -72,10 +72,12 @@
    - Built with React, TypeScript, Python/Flask, PostgreSQL, and LLM integration
    - Includes scan history, cybersecurity lessons, threat intelligence, multilingual support, and persistent web sessions
 
-5. **[Project Idea Vault](https://github.com/cassyomondi/Project-Idea-Vault)**: Developer platform for submitting, browsing, and saving software project ideas.
+3. **[SpaceShift – Cybersecurity Reports Board](https://reports.spaceshift.africa/)**: Public cybersecurity intelligence dashboard providing a concise view of recent scan activity, risk patterns, and threat trends.
    
-   - Developer idea management system with tagging, search, and persistence layer
-   - Built for collaborative ideation workflows
+   - Displays recent cybersecurity scans with detected risk levels, threat categories, and timestamps
+   - Visualizes threat trends and risk distribution to make security activity easier to interpret
+   - Built with React, TypeScript, Tailwind CSS, Python/Flask, and PostgreSQL
+   - Includes multilingual support, persistent dark/light themes, contextual threat guidance, and direct integration with the SpaceShift scanning platform
 
 ---
 
