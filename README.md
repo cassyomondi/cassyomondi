@@ -69,7 +69,7 @@
    - Scans URLs and digital content for phishing, scams, impersonation, malware, and other suspicious behavior
    - Combines deterministic risk analysis with AI-generated contextual threat explanations
    - Built with React, TypeScript, Python/Flask, PostgreSQL, and LLM integration
-   - Includes scan history, cybersecurity lessons, threat intelligence, multilingual support, and persistent web sessions
+   - Built around asynchronous scan processing, persistent sessions, deterministic risk analysis, LLM-assisted explanations, and PostgreSQL-backed reporting.
 
 3. **[SpaceShift – Cybersecurity Reports Board](https://reports.spaceshift.africa/)**: Public cybersecurity intelligence dashboard providing a concise view of recent scan activity, risk patterns, and threat trends.
    
