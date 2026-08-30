@@ -1,6 +1,6 @@
 ## Cassy Omondi
 
-### Building AI-driven mobile/web apps, automation systems, and monetized SaaS products.
+### Building production AI products, full-stack platforms, and intelligent automation systems.
 
 ---
 
