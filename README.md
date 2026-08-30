@@ -56,7 +56,7 @@
 
 ---
 
-## Proof Of Concept
+## Production Projects
 
 1. **[SheCare – WhatsApp Health Companion](https://shecare.africa/)**: Production WhatsApp chatbot supporting women's health information and guidance.
    
