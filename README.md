@@ -83,7 +83,7 @@ Production conversational health platform delivered through WhatsApp and web.
 
 ## Proof Of Life
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cassyomondi&theme=github-compact)
+![GitHub Activity](./profile-summary-card-output/github/0-profile-details.svg)
 
 ---
 
