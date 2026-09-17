@@ -56,7 +56,7 @@
 
 ---
 
-## Selected Work
+## Selected Production Work
 
 ### 1. SpaceShift – AI Cybersecurity Platform
 [Web Chatbot](https://chat.spaceshift.africa/) · [Reports Board](https://reports.spaceshift.africa/)
