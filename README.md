@@ -8,6 +8,13 @@ I design and build AI-powered products from backend architecture and data workfl
 
 ## What I Build
 
+- AI-powered conversational systems
+- Intelligent analysis and decision-support workflows
+- Full-stack SaaS and information platforms
+- WhatsApp and web applications
+- Admin and operational dashboards
+- API-driven automation and asynchronous processing
+
 ---
 
 ## Stack
