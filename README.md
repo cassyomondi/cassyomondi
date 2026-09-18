@@ -17,6 +17,31 @@ I design and build AI-powered products from backend architecture and data workfl
 
 ---
 
+## Selected Production Work
+
+### 1. SpaceShift – AI Cybersecurity Platform
+[Web Chatbot](https://chat.spaceshift.africa/) · [Reports Board](https://reports.spaceshift.africa/)
+
+Multi-channel cybersecurity platform for detecting, analyzing, and explaining online threats.
+
+- Built URL, image, QR, and digital-content threat analysis workflows
+- Combines deterministic risk engines with LLM-assisted contextual explanations
+- Supports asynchronous processing, persistent sessions, report history, multilingual interfaces, and PostgreSQL-backed reporting
+- Developed WhatsApp and web chatbot interfaces, public reports board, and administrative infrastructure
+- React · TypeScript · Flask · PostgreSQL · AI/LLM APIs · Twilio
+
+### 2. SheCare – AI Women's Health Platform
+[Visit SheCare](https://shecare.africa/)
+
+Production conversational health platform delivered through WhatsApp and web.
+
+- Built AI-assisted women's health conversations with structured health-information flows
+- Integrated clinic discovery, prescription processing, multilingual interaction, and persistent conversational state
+- Developed supporting administration and user-management infrastructure
+- Python · Flask · React · Twilio WhatsApp API · AI/LLM APIs
+
+---
+
 ## Stack
 
 ### Core Languages
@@ -66,31 +91,6 @@ I design and build AI-powered products from backend architecture and data workfl
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-
----
-
-## Selected Production Work
-
-### 1. SpaceShift – AI Cybersecurity Platform
-[Web Chatbot](https://chat.spaceshift.africa/) · [Reports Board](https://reports.spaceshift.africa/)
-
-Multi-channel cybersecurity platform for detecting, analyzing, and explaining online threats.
-
-- Built URL, image, QR, and digital-content threat analysis workflows
-- Combines deterministic risk engines with LLM-assisted contextual explanations
-- Supports asynchronous processing, persistent sessions, report history, multilingual interfaces, and PostgreSQL-backed reporting
-- Developed WhatsApp and web chatbot interfaces, public reports board, and administrative infrastructure
-- React · TypeScript · Flask · PostgreSQL · AI/LLM APIs · Twilio
-
-### 2. SheCare – AI Women's Health Platform
-[Visit SheCare](https://shecare.africa/)
-
-Production conversational health platform delivered through WhatsApp and web.
-
-- Built AI-assisted women's health conversations with structured health-information flows
-- Integrated clinic discovery, prescription processing, multilingual interaction, and persistent conversational state
-- Developed supporting administration and user-management infrastructure
-- Python · Flask · React · Twilio WhatsApp API · AI/LLM APIs
 
 ---
 
