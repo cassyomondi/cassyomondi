@@ -6,6 +6,10 @@ I design and build AI-powered products from backend architecture and data workfl
 
 ---
 
+## What I Build
+
+---
+
 ## Stack
 
 ### Core Languages
