@@ -94,12 +94,6 @@ Production conversational health platform delivered through WhatsApp and web.
 
 ---
 
-## Proof Of Life
-
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassyomondi&theme=github)
-
----
-
 ## Check Me Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassy%20Omondi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassyomondi)
