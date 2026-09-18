@@ -1,6 +1,6 @@
 ## Cassy Omondi
 
-### Building production AI products, full-stack platforms, and intelligent automation systems.
+### Building production AI systems, full-stack platforms, and intelligent automation products.
 
 ---
 
