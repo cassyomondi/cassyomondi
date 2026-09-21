@@ -6,7 +6,7 @@ I design and build AI-powered products from backend architecture and data workfl
 
 ---
 
-## What I Build
+## Engineering Focus
 
 - AI-powered conversational systems
 - Intelligent analysis and decision-support workflows
