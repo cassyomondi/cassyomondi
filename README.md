@@ -8,12 +8,15 @@ I design and build AI-powered products from backend architecture and data workfl
 
 ## Engineering Focus
 
-- AI-powered conversational systems
-- Intelligent analysis and decision-support workflows
-- Full-stack SaaS and information platforms
-- WhatsApp and web applications
-- Admin and operational dashboards
-- API-driven automation and asynchronous processing
+- Applied AI Systems — LLM integration, multimodal analysis, structured AI workflows, and deterministic + AI-assisted decision systems
+
+- Conversational Platforms — WhatsApp and web-based assistants with persistent state, multilingual interaction, and external service integrations
+
+- Backend & API Engineering — REST APIs, authentication, relational data models, asynchronous processing, and third-party integrations
+
+- Full-Stack Products — Production web applications, operational dashboards, admin platforms, and user-facing interfaces
+
+- Automation & Infrastructure — Background jobs, workflow automation, deployment pipelines, and production operations
 
 ---
 
