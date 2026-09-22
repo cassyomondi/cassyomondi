@@ -25,13 +25,19 @@ I design and build AI-powered products from backend architecture and data workfl
 ### 1. SpaceShift – AI Cybersecurity Platform
 [Web Chatbot](https://chat.spaceshift.africa/) · [Reports Board](https://reports.spaceshift.africa/)
 
-Multi-channel cybersecurity platform for detecting, analyzing, and explaining online threats.
+Multi-channel cybersecurity platform for analyzing online threats and translating technical risk signals into actionable guidance.
 
-- Built URL, image, QR, and digital-content threat analysis workflows
-- Combines deterministic risk engines with LLM-assisted contextual explanations
-- Supports asynchronous processing, persistent sessions, report history, multilingual interfaces, and PostgreSQL-backed reporting
-- Developed WhatsApp and web chatbot interfaces, public reports board, and administrative infrastructure
-- React · TypeScript · Flask · PostgreSQL · AI/LLM APIs · Twilio
+- Engineered URL, screenshot, QR-code, and digital-content analysis workflows combining deterministic security checks with LLM-assisted contextual analysis
+
+- Built asynchronous processing workflows with persistent sessions, scan history, structured findings, and PostgreSQL-backed reporting
+
+- Integrated cybersecurity threat intelligence and educational workflows into multilingual conversational experiences
+
+- Developed dedicated WhatsApp and web interfaces alongside a public reporting platform and secure administrative infrastructure
+
+- Designed independent user channels around shared analysis, persistence, and reporting services
+
+Stack: React · TypeScript · Flask · PostgreSQL · Twilio · AI/LLM APIs
 
 ### 2. SheCare – AI Women's Health Platform
 [Visit SheCare](https://shecare.africa/)
