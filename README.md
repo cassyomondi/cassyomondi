@@ -44,10 +44,13 @@ Stack: React · TypeScript · Flask · PostgreSQL · Twilio · AI/LLM APIs
 
 Conversational health platform providing accessible health information and service discovery through WhatsApp and web interfaces.
 
-- Built AI-assisted women's health conversations with structured health-information flows
-- Integrated clinic discovery, prescription processing, multilingual interaction, and persistent conversational state
-- Developed supporting administration and user-management infrastructure
-- Python · Flask · React · Twilio WhatsApp API · AI/LLM APIs
+- Built AI-assisted women's health conversations with structured information flows and persistent conversational state
+
+- Integrated location-aware clinic discovery, prescription processing, multilingual interaction, and WhatsApp messaging
+
+- Developed administrative tooling for user management, platform operations, and supporting health-service workflows
+
+- Built supporting web experiences and production infrastructure around the conversational platform
 
 ---
 
