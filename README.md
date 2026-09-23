@@ -8,7 +8,7 @@ I design and build AI-powered products from backend architecture and data workfl
 
 ## Engineering Focus
 
-- **Applied AI Systems**: LLM integration, multimodal analysis, structured AI workflows, and deterministic + AI-assisted decision systems
+- **Applied AI Systems** - LLM integration, multimodal analysis, structured AI workflows, and deterministic + AI-assisted decision systems
 
 - **Conversational Platforms** - WhatsApp and web-based assistants with persistent state, multilingual interaction, and external service integrations
 
