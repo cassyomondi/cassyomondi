@@ -42,7 +42,7 @@ Stack: React · TypeScript · Flask · PostgreSQL · Twilio · AI/LLM APIs
 ### 2. SheCare – AI Women's Health Platform
 [Visit SheCare](https://shecare.africa/)
 
-Production conversational health platform delivered through WhatsApp and web.
+Conversational health platform providing accessible health information and service discovery through WhatsApp and web interfaces.
 
 - Built AI-assisted women's health conversations with structured health-information flows
 - Integrated clinic discovery, prescription processing, multilingual interaction, and persistent conversational state
