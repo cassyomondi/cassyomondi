@@ -52,6 +52,8 @@ Conversational health platform providing accessible health information and servi
 
 - Built supporting web experiences and production infrastructure around the conversational platform
 
+Stack: Python · Flask · React · PostgreSQL · Twilio WhatsApp API · AI/LLM APIs
+
 ---
 
 ## Stack
