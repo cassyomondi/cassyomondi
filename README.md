@@ -101,7 +101,7 @@ Conversational health platform providing accessible health information and servi
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-### Infrastructure & DevOps
+### Development & Deployment
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
