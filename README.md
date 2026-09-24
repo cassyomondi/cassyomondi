@@ -85,7 +85,7 @@ Conversational health platform providing accessible health information and servi
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-### Data Layer
+### Data & Persistence
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
