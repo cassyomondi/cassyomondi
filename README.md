@@ -62,7 +62,7 @@ Conversational health platform providing accessible health information and servi
 
 ---
 
-## Stack
+## Technology Stack
 
 ### Core Languages
 
