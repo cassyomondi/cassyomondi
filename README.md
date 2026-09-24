@@ -56,6 +56,12 @@ Conversational health platform providing accessible health information and servi
 
 ---
 
+## Architecture & Engineering
+
+`REST APIs` · `Async Processing` · `Background Jobs` · `Relational Data Modeling` · `Authentication & Authorization` · `Session Management` · `Third-Party Integrations` · `Multilingual Systems` · `AI/LLM Integration` · `Production Deployment`
+
+---
+
 ## Stack
 
 ### Core Languages
