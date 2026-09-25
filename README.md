@@ -116,6 +116,6 @@ Conversational health platform providing accessible health information and servi
 
 ---
 
-## Check Me Out
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cassy%20Omondi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassyomondi)
