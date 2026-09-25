@@ -95,6 +95,8 @@ Conversational health platform providing accessible health information and servi
 
 ### AI Engineering
 
+LLM Integration · Multimodal Analysis · Structured AI Workflows · Tool / Function Calling · Prompt Engineering
+
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
