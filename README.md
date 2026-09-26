@@ -40,7 +40,7 @@ Multi-channel cybersecurity platform for analyzing online threats and translatin
 **Stack:** React · TypeScript · Flask · PostgreSQL · Twilio · AI/LLM APIs
 
 ### 2. SheCare – AI Women's Health Platform
-[Visit SheCare](https://shecare.africa/)
+[Live Platform](https://shecare.africa/)
 
 Conversational health platform providing accessible health information and service discovery through WhatsApp and web interfaces.
 
