@@ -27,7 +27,7 @@ I design and engineer AI-powered systems across backend architecture, data workf
 
 Multi-channel cybersecurity platform for analyzing online threats and translating technical risk signals into actionable guidance.
 
-- Engineered URL, screenshot, QR-code, and digital-content analysis workflows combining deterministic security checks with LLM-assisted contextual analysis
+- Engineered URL, screenshot, QR, and digital-content analysis workflows combining deterministic security checks with LLM-assisted contextual analysis
 
 - Built asynchronous processing workflows with persistent sessions, scan history, structured findings, and PostgreSQL-backed reporting
 
