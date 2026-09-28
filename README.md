@@ -35,7 +35,7 @@ Multi-channel cybersecurity platform for analyzing online threats and translatin
 
 - Developed dedicated WhatsApp and web interfaces alongside a public reporting platform and secure administrative infrastructure
 
-- Designed independent user channels around shared analysis, persistence, and reporting services
+- Designed shared analysis, persistence, and reporting services across independent WhatsApp and web channels
 
 **Stack:** React · TypeScript · Flask · PostgreSQL · Twilio · AI/LLM APIs
 
