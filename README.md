@@ -1,6 +1,6 @@
 ## Cassy Omondi
 
-### Building production AI systems, full-stack platforms, and intelligent automation products.
+### Building Production AI Systems | Full-Stack Platforms | Intelligent Automation Products.
 
 I design and engineer AI-powered systems across backend architecture, data workflows, user-facing applications, third-party integrations, and production deployment.
 
