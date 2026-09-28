@@ -2,7 +2,7 @@
 
 ### Building production AI systems, full-stack platforms, and intelligent automation products.
 
-I design and build AI-powered products from backend architecture and data workflows to user-facing applications, integrations, and production deployment.
+I design and engineer AI-powered systems across backend architecture, data workflows, user-facing applications, third-party integrations, and production deployment.
 
 ---
 
