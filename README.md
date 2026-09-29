@@ -58,7 +58,9 @@ Conversational health platform providing accessible health information and servi
 
 ## Engineering Capabilities
 
-`REST APIs` · `Async Processing` · `Background Jobs` · `Relational Data Modeling` · `Authentication & Authorization` · `Session Management` · `Third-Party Integrations` · `Multilingual Systems` · `LLM Integration` · `Multimodal Analysis` · `Structured AI Workflows` · `Prompt Engineering` · `Production Deployment`
+**Backend & Systems:** `REST APIs` · `Async Processing` · `Background Jobs` · `Relational Data Modeling` · `Authentication & Authorization` · `Session Management`
+
+`Third-Party Integrations` · `Multilingual Systems` · `LLM Integration` · `Multimodal Analysis` · `Structured AI Workflows` · `Prompt Engineering` · `Production Deployment`
 
 ---
 
