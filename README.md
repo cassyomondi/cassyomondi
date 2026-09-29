@@ -50,7 +50,7 @@ Conversational health platform providing accessible health information and servi
 
 - Developed administrative tooling for user management, platform operations, and supporting health-service workflows
 
-- Built supporting web experiences and production infrastructure around the conversational platform
+- Built asynchronous processing for conversational health, clinic-discovery, and prescription workflows
 
 **Stack:** Python · Flask · React · PostgreSQL · Twilio WhatsApp API · AI/LLM APIs
 
