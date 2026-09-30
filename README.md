@@ -45,12 +45,12 @@ Multi-channel cybersecurity platform for analyzing online threats and translatin
 Conversational health platform providing accessible health information and service discovery through WhatsApp and web interfaces.
 
 - Built AI-assisted women's health conversations with structured information flows and persistent conversational state
-
-- Integrated location-aware clinic discovery, prescription processing, multilingual interaction, and WhatsApp messaging
-
-- Developed administrative tooling for user management, platform operations, and supporting health-service workflows
-
+  
+- Integrated location-aware clinic and specialty discovery, prescription processing, multilingual interaction, and WhatsApp messaging
+  
 - Built asynchronous processing for conversational health, clinic-discovery, and prescription workflows
+  
+- Developed administrative tooling for user management, platform operations, and supporting health-service workflows
 
 **Stack:** Python · Flask · React · PostgreSQL · Twilio WhatsApp API · AI/LLM APIs
 
