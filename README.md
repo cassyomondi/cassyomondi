@@ -33,8 +33,8 @@ Multi-channel cybersecurity platform for analyzing online threats and translatin
 
 - Integrated CISA KEV threat intelligence, multilingual cybersecurity education, and contextual AI explanations into conversational workflows
 
-- Developed dedicated WhatsApp and web interfaces alongside a public reporting platform and secure administrative infrastructure
-
+- Delivered WhatsApp and web chat interfaces, a public Reports Board, and administrative tooling
+  
 - Designed shared analysis, persistence, and reporting services across independent WhatsApp and web channels
 
 **Stack:** React · TypeScript · Flask · PostgreSQL · Twilio · AI/LLM APIs
