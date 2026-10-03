@@ -97,7 +97,7 @@ Conversational health platform providing accessible health information and servi
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### LLM Integration
+### AI & Model APIs
 
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
