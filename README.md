@@ -33,7 +33,7 @@ Multi-channel cybersecurity platform for analyzing online threats and translatin
 
 - Integrated CISA KEV threat intelligence, multilingual cybersecurity education, and contextual AI explanations into conversational workflows
 
-- Delivered WhatsApp and web chat interfaces, a public Reports Board, and administrative tooling
+- Delivered WhatsApp and web chat interfaces, a public Reports Board, and a secure administrative portal
   
 - Designed shared analysis, persistence, and reporting services across independent WhatsApp and web channels
 
