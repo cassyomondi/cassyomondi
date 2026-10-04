@@ -31,7 +31,7 @@ Multi-channel cybersecurity platform for analyzing online threats and translatin
 
 - Built asynchronous processing workflows with persistent sessions, scan history, structured findings, and PostgreSQL-backed reporting
 
-- Integrated CISA KEV threat intelligence, multilingual cybersecurity education, and contextual AI explanations into conversational workflows
+- Integrated CISA Known Exploited Vulnerabilities (KEV) threat intelligence, multilingual cybersecurity education, and contextual AI explanations into conversational workflows
 
 - Delivered WhatsApp and web chat interfaces, a public Reports Board, and a secure administrative portal
   
