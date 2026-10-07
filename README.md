@@ -37,7 +37,7 @@ Multi-channel cybersecurity platform for analyzing online threats and translatin
   
 - Designed shared analysis, persistence, and reporting services across independent WhatsApp and web channels
 
-**Stack:** React · TypeScript · Flask · PostgreSQL · Twilio · Gemini
+**Stack:** React · TypeScript · Flask · PostgreSQL · Twilio · Gemini API
 
 ### 2. SheCare – AI Women's Health Platform
 [Live Platform](https://shecare.africa/)
@@ -52,7 +52,7 @@ Conversational health platform providing accessible health information and servi
   
 - Developed administrative tooling for user management, platform operations, and supporting health-service workflows
 
-**Stack:** Python · Flask · React · PostgreSQL · Twilio WhatsApp API · AI/LLM APIs
+**Stack:** Python · Flask · React · PostgreSQL · Twilio WhatsApp API · OpenAI API · Gemini API
 
 ---
 
