@@ -62,7 +62,7 @@ Conversational health platform providing accessible health information and servi
 
 **AI Systems:** `LLM Integration` · `Multimodal Analysis` · `Structured AI Workflows` · `Prompt Engineering` · `Multilingual Systems`
 
-**Integration & Delivery:** `Third-Party Integrations` · `Production Deployment`
+**Integration & Delivery:** `Third-Party APIs` · `Messaging Integrations` · `Production Deployment`
 
 ---
 
