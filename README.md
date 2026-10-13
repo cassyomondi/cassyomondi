@@ -60,7 +60,7 @@ Conversational health platform providing accessible health information and servi
 
 **Backend & Systems:** `REST APIs` · `Asynchronous & Background Processing` · `Relational Data Modeling` · `Authentication & Authorization` · `Session Management`
 
-**AI Systems:** `LLM Integration` · `Multimodal Analysis` · `Structured AI Workflows` · `Prompt Engineering` · `Multilingual Systems`
+**AI Systems:** `LLM Integration` · `Multimodal Analysis` · `Structured AI Workflows` · `Prompt Engineering`
 
 **Integration & Delivery:** `Third-Party APIs` · `Messaging Integrations` · `Production Deployment`
 
