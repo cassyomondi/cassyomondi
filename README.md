@@ -27,7 +27,7 @@ I build AI-powered applications and full-stack platforms, from backend architect
 
 Multi-channel cybersecurity platform for analyzing online threats and translating technical risk signals into actionable guidance.
 
-- Engineered URL, screenshot, QR, and digital-content analysis workflows combining deterministic security checks with LLM-assisted contextual analysis
+- Engineered URL, screenshot, and QR-code analysis pipelines combining deterministic security checks with LLM-assisted threat assessment
 
 - Built asynchronous processing workflows with persistent sessions, scan history, structured findings, and PostgreSQL-backed reporting
 
