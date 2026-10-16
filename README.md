@@ -48,7 +48,7 @@ Conversational health platform providing accessible health information and servi
   
 - Integrated location-aware clinic and specialty discovery, prescription processing, multilingual interaction, and WhatsApp messaging
   
-- Built asynchronous processing for AI conversations, clinic discovery, and prescription-analysis workflows
+- Implemented asynchronous job processing for AI conversations, clinic searches, and prescription analysis
   
 - Developed administrative tooling for user management, platform operations, and supporting health-service workflows
 
